@@ -1,2 +1,2 @@
 # modal-and-toast-react
-url - modal-and-toast-react.vercel.app
+url - https://modal-and-toast-react.vercel.app/
