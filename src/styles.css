@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: #006600;
+  color: white;
+  cursor: pointer;
+}
+
+.no-btn {
+  background-color: grey;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+.align-button {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
